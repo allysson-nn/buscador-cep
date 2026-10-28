@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buscador-cep", "buscador-cep.csproj", "{D29A06CC-ED30-4F14-9CC2-5767537C93EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D29A06CC-ED30-4F14-9CC2-5767537C93EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29A06CC-ED30-4F14-9CC2-5767537C93EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29A06CC-ED30-4F14-9CC2-5767537C93EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29A06CC-ED30-4F14-9CC2-5767537C93EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82BE4EE7-D428-4E86-BA8E-613F4EFFEF51}
+	EndGlobalSection
+EndGlobal
